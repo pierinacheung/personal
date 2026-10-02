@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**Hello, I'm Pierina.** I'm a developmental scientist at the [Centre for Research in Child Development](https://www.ntu.edu.sg/nie/centre-for-research-in-child-development) (CRCD), National Institute of Education, Nanyang Technological University, Singapore, where I am a Research Scientist and Assistant Centre Director.
+**Hello, I'm Pierina.** I'm a developmental scientist at the [Centre for Research in Child Development](https://www.ntu.edu.sg/nie/centre-for-research-in-child-development) (CRCD), National Institute of Education, Nanyang Technological University, Singapore, where I am a Research Scientist and Assistant Centre Director. I received my PhD in Psychology from the University of Waterloo.
 
 Natural numbers (*one, two, three, four*, etc.) are both simple and profound. Follow a simple algorithm -- add 1 to any number to generate the next number -- and you can generate an infinite set of numbers, which are foundational to the development of science and human civilization. Yet every child must learn them, and most begin in the first few years of life. My research sits at the intersection of cognitive development and education: how children acquire one of the most fundamental symbolic systems of human thought, and how the people around them help build that knowledge.
 
@@ -20,8 +20,6 @@ Some of the most useful things I've learned came from colleagues willing to shar
 
 I serve as Associate Editor of the *Journal of Numerical Cognition* and Consulting Editor at *Child Development*. 
 I also sit on the Leadership Team of [ManyNumbers]([https://manynumbers.github.io/](https://www.manynumbers.org/home)), a US NSF-funded multi-lab study of early number development. 
-
-If you are a prospective student or research assistant interested in early numeracy, [email me](mailto:YOUR_EMAIL) about what you'd like to work on.
 
 Email me at pierina dot cheung at nie dot edu dot sg · [Google Scholar](https://scholar.google.com/citations?user=r0_yP-cAAAAJ&hl=en) · 
 
