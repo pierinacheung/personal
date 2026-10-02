@@ -1,0 +1,6 @@
+title: Pierina Cheung
+description: I study how children learn numbers
+logo: /img/me.jpg
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
