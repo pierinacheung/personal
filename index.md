@@ -2,33 +2,38 @@
 layout: default
 ---
 
-**Hi, I'm Pierina.** I'm a developmental cognitive scientist at the [Centre for Research in Child Development](https://www.ntu.edu.sg/nie/) (CRCD), National Institute of Education, Nanyang Technological University, Singapore, where I am a Research Scientist and Assistant Centre Director.
+**Hello, I'm Pierina.** I'm a developmental scientist at the [Centre for Research in Child Development](https://www.ntu.edu.sg/nie/centre-for-research-in-child-development) (CRCD), National Institute of Education, Nanyang Technological University, Singapore, where I am a Research Scientist and Assistant Centre Director.
 
-I study how children acquire natural numbers. Add one to any number and you get the next — a simple rule that generates an infinite system, and one of the most powerful symbolic tools humans have. An influential view holds that children grasp this system in a single conceptual leap, when they work out how counting works. My research suggests a more gradual picture: children assemble number knowledge piece by piece, drawing on different cognitive systems along the way, and the process takes years longer than once assumed.
+Natural numbers (*one, two, three, four*, etc.) are both simple and profound. Follow a simple algorithm -- add 1 to any number to generate the next number -- and you can generate an infinite set of numbers, which are foundational to the development of science and human civilization. Yet every child must learn them, and most begin in the first few years of life. My research sits at the intersection of cognitive development and education: how children acquire one of the most fundamental symbolic systems of human thought, and how the people around them help build that knowledge.
 
-Children's first number words appear to be grounded in their ability to keep track of individual objects, rather than in the quantifier words of their language. Learning to count is an important step, but not the decisive one: children who can count still do not understand that every number has a successor until years later ([Cheung et al., 2017](#papers)). To go beyond what they can count, children work out the rules that generate larger number words and multi-digit numerals, and one symbolic system scaffolds the next — what children know about number words predicts how they come to understand place value ([Cheung & Ansari, 2021](#papers)). Throughout, this learning happens in conversation, with parents at home and teachers in the classroom. My newer work examines how those exchanges, including how adults respond to children's mistakes, support or hinder children's learning.
+The first strand asks what cognitive architecture supports children's acquisition of natural numbers, and how numerical knowledge develops over time. An influential view holds that children grasp this system in a single conceptual leap, when they work out how counting works. My work suggests that children's acquisition of number is best characterized by incremental development: children build number knowledge piece by piece, drawing on different cognitive systems along the way, over a longer period than once assumed.
 
-I use training experiments, longitudinal designs, bilingual and cross-linguistic samples, and classroom observation and conversation analysis.
+The second strand turns to the social side: how children's number knowledge is built through everyday talk with people around them. Much of the research on math talk has focused on how much of it children hear, and more math talk at home and in preschool predicts later math development. My work broadens this view by treating math talk as an interaction rather than as input to be quantified: what an adult says next depends on what the child just said or did, and the quality of that back-and-forth matters. With my students, I study these exchanges between parents and children at home and between teachers and children in preschool classrooms. A current focus is how adults respond when children make mathematical mistakes, and how those responses can help children learn from their errors.
 
-I also work closely with Singapore's Ministry of Education, teacher training institutes, and preschool operators to bring this research into early childhood classrooms — more on that [here](translation/).
+The research methods I use follow my questions, from training experiments and longitudinal designs to classroom observation and conversation analysis. When a question calls for a method I don't yet have, I learn it or find a collaborator who is an expert in that area. I also study children learning number across different languages, including bilingual children in Singapore, which helps separate what is general about number learning from what depends on language and input. Ultimately, my goal is to develop a theoretically grounded account of how children acquire natural numbers, and to use that understanding to strengthen early math learning environments.
 
-I am committed to open and reproducible science. I sit on the Leadership Team of [ManyNumbers]([https://manynumbers.github.io/](https://www.manynumbers.org/home)), a US NSF-funded multi-lab study of early number development, and I teach workshops on preregistration, Registered Reports, data sharing, and R. I serve as Associate Editor of the *Journal of Numerical Cognition* and Consulting Editor at *Child Development*.
+I work closely with Singapore's Ministry of Education, teacher training institutes, and preschool operators to bring this research into early childhood classrooms — more on that [here](translation/).
 
-My research has been funded by the Singapore Ministry of Education, the Singapore National Research Foundation, the US National Science Foundation (as collaborator), industry partnership, and the Natural Sciences and Engineering Research Council of Canada.
+My research has been funded by the Singapore Ministry of Education, the Singapore National Research Foundation, industry partnership, and the Natural Sciences and Engineering Research Council of Canada.
 
-A bit about me: I received my BSc in Psychology from the University of Toronto and my PhD in Psychology from the University of Waterloo, working with Mathieu Le Corre and Katherine White. I then held postdoctoral fellowships at Wesleyan University and Western University before moving to Singapore in 2018.
+Some of the most useful things I've learned came from colleagues willing to share what they knew, and I try to do the same. I run workshops for researchers and students on grant writing, preregistration, data sharing and management, and data analysis and visualization in R. I have also been part of the professional development committee of NIE's Office for Research since 2019, and now co-chair it, bringing in speakers on topics such as the uses and limits of AI tools for research, qualitative methodology, and academic writing. I co-lead a weekly departmental writing circle, and in 2026, with a couple of colleagues, secured funding to organize the first writing retreat for women researchers at NIE and NTU. We are now working to make it a recurring event at NIE.
+
+I serve as Associate Editor of the *Journal of Numerical Cognition* and Consulting Editor at *Child Development*. 
+I also sit on the Leadership Team of [ManyNumbers]([https://manynumbers.github.io/](https://www.manynumbers.org/home)), a US NSF-funded multi-lab study of early number development. 
 
 If you are a prospective student or research assistant interested in early numeracy, [email me](mailto:YOUR_EMAIL) about what you'd like to work on.
 
-[Email](mailto:pierina dot cheung at nie dot edu dot sg) · [Google Scholar](https://scholar.google.com/citations?user=r0_yP-cAAAAJ&hl=en) · 
+Email me at pierina dot cheung at nie dot edu dot sg · [Google Scholar](https://scholar.google.com/citations?user=r0_yP-cAAAAJ&hl=en) · 
 
 ---
 
-### Papers
+## Papers
 
 \* denotes student or research assistant under my supervision.
 
-#### Preprints and manuscripts under review
+<br>
+
+### Preprints and manuscripts under review
 
 **Cheung, P.**, Merkley, R., Wege, T., Jasim, S., & Ansari, D. (preprint). [Cross-task variability in assessing number word knowledge](https://osf.io/preprints/psyarxiv/zemhu). *PsyArXiv*.
 
@@ -38,8 +43,9 @@ If you are a prospective student or research assistant interested in early numer
 
 **Cheung, P.**, & Le Corre, M. (preprint available upon request). Children's reasoning about unspecified exact number.
 
+<br>
 
-#### Journal articles
+### Journal articles
 
 Li, P., Carey, S., & **Cheung, P.** (2026). Counting parts and wholes and the mastery of partitive language. *Cognitive Psychology*, 163, 101788.
 
@@ -81,7 +87,9 @@ Wagner, K., Kimura, K., **Cheung, P.**, & Barner, D. (2015). [Why is learning nu
 
 Barner, D., Libenson, A., **Cheung, P.**, & Takasaki, M. (2009). [Cross-linguistic relations between quantifiers and numerals in language acquisition: Evidence from Japanese](https://psyarxiv.com/cpv3s/). *Journal of Experimental Child Psychology*, 103, 421–440.
 
-#### Book chapters and encyclopedia entries
+<br>
+
+### Book chapters and encyclopedia entries
 
 **Cheung, P.** (in press). Understanding of natural numbers. In C. Gilmore, J. Bahnmüller, K. Cipora, K. Morsanyi, F. Sella, & I. Xenidou-Dervou (Eds.), *Routledge Handbook of Mathematical Cognition*. Routledge.
 
@@ -93,13 +101,17 @@ Barner, D., Libenson, A., **Cheung, P.**, & Takasaki, M. (2009). [Cross-linguist
 
 Li, P., & **Cheung, P.** (2015). Acquisition of classifiers and count-mass distinction. In R. Sybesma (Ed.), *Encyclopedia of Chinese Language and Linguistics*. Brill.
 
-#### Policy reports
+<br>
+
+### Policy reports
 
 Muñez, D., & **Cheung, P.** (2024). [Numeracy support in the early years](https://repository.nie.edu.sg/server/api/core/bitstreams/bf0abda4-3fd4-4ef0-810a-a704722ab553/content). NIE Working Paper Series No. 25. National Institute of Education, Singapore.
 
 Bonte, M., Ivinson, G., Merkley, R., … **Cheung, P.**, … & Vanden Bosch der Nederlanden, C. (2022). Foundations of academic knowledge. In *Reimagining education: The International Science and Evidence based Education Assessment*. UNESCO MGIEP.
 
-#### Refereed conference proceedings
+<br>
+
+### Refereed conference proceedings
 
 Wege, T., Merkley, R., Jasim, S., Ansari, D., & **Cheung, P.** (2024). [Three yellow stars and three red hearts: Can subset-knowers learn number word meanings from multiple exemplars?](https://escholarship.org/uc/item/1vj8c2v2) *Proceedings of the 46th Annual Conference of the Cognitive Science Society*, 3768–3775.
 
