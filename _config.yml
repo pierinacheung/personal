@@ -1,6 +1,7 @@
 title: Pierina Cheung
-description: I study how children learn numbers
+description: Developmental scientist
 logo: /img/me.jpg
+baseurl: "/personal"
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
