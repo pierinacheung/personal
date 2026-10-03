@@ -29,8 +29,6 @@ Email me at pierina dot cheung at nie dot edu dot sg · [Google Scholar](https:/
 
 \* denotes student or research assistant under my supervision.
 
-<br>
-
 ### Preprints and manuscripts under review
 
 **Cheung, P.**, Merkley, R., Wege, T., Jasim, S., & Ansari, D. (preprint). [Cross-task variability in assessing number word knowledge](https://osf.io/preprints/psyarxiv/zemhu). *PsyArXiv*.
@@ -89,7 +87,7 @@ Barner, D., Libenson, A., **Cheung, P.**, & Takasaki, M. (2009). [Cross-linguist
 
 ### Book chapters and encyclopedia entries
 
-**Cheung, P.** (in press). Understanding of natural numbers. In C. Gilmore, J. Bahnmüller, K. Cipora, K. Morsanyi, F. Sella, & I. Xenidou-Dervou (Eds.), *Routledge Handbook of Mathematical Cognition*. Routledge.
+**Cheung, P.** (in press). [Understanding of natural numbers](https://entuedu-my.sharepoint.com/:b:/g/personal/picheung_niestaff_cluster_nie_edu_sg/IQCWtyy2w4yXTZs6NRTgVPC5Ac-Ifq37h6ugxDr_DgJdWxE?e=In35LN) In C. Gilmore, J. Bahnmüller, K. Cipora, K. Morsanyi, F. Sella, & I. Xenidou-Dervou (Eds.), *Routledge Handbook of Mathematical Cognition*. Routledge.
 
 **Cheung, P.**, Muñez, D., Ng, E. L., Khng, K. H., & Bull, R. (2022). [The development of early arithmetic skills: What, when, and how?](https://osf.io/preprints/osf/y4ka8) In O. S. Tan, K. Poon, B. O'Brien, & A. Rifkin-Graboi (Eds.), *Early childhood development and education in Singapore* (pp. 241–260). Springer.
 
