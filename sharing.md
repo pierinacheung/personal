@@ -14,7 +14,7 @@ With Ministry of Education funding, my team developed and tested a professional 
 
 Since 2020, my talks and workshops have reached over 200 preschool teachers, 40 curriculum planners, 60 teacher-training lecturers, and over 250 parents and caregivers.
 
-Slides from selected sharing sessions: [For parents](../slides/260818_parents_github.pdf) · [For preschool teachers](../slides/260522_teacher_github.pdf)
+Slides from selected sharing sessions: [For parents](../slides/260818_parent_github.pdf) · [For preschool teachers](../slides/260522_teacher_github.pdf)
 
 <br>
 
