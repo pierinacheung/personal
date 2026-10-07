@@ -8,9 +8,9 @@ permalink: /sharing/
 
 ### Research into practice
 
-Much of what children learn about number before school happens in conversation with the adults around them, so engaging teachers and parents is central to my work. I work with Singapore's Ministry of Education, teacher training institutes, and preschool operators to bring research on early numeracy into curriculum, teacher training, and policy. I sit on the Ministry of Education's Mathematics Workgroup on Resource Development, and from 2024 to 2026 served as numeracy curriculum consultant to My First Skool, Singapore's second-largest preschool operator (170+ centres). 
+Much of what children learn about numbers before school happens in conversation with people around them, so engaging teachers and parents is central to my work. From 2024 to 2025, I served as numeracy curriculum consultant to My First Skool, Singapore's second-largest preschool operator (170+ centres). Through this work, I have learned to translate research on children's number development into curriculum decisions: what goes into a curriculum, in what sequence, and how to support teachers in teaching it.
 
-With Ministry of Education funding, my team developed and tested a professional development programme on how preschool teachers respond to children's mathematical mistakes, and we are now adapting it into curriculum resources. I have also contributed to policy through a working paper on numeracy support in the early years ([Muñez & Cheung, 2024](https://repository.nie.edu.sg/server/api/core/bitstreams/bf0abda4-3fd4-4ef0-810a-a704722ab553/content)).
+With funding from Singapore's Ministry of Education, my collaborators and I developed and tested a professional development program on how preschool teachers respond to children's mathematical mistakes, and we are planning to adapt it into curriculum resources. I have also contributed to policy through a working paper on numeracy support in the early years ([Muñez & Cheung, 2024](https://repository.nie.edu.sg/server/api/core/bitstreams/bf0abda4-3fd4-4ef0-810a-a704722ab553/content)).
 
 Since 2020, my talks and workshops have reached over 200 preschool teachers, 40 curriculum planners, 60 teacher-training lecturers, and over 250 parents and caregivers.
 
