@@ -12,7 +12,7 @@ On the second question, I focus on everyday conversations about numbers and math
 
 The research methods I use follow my questions, from training experiments and longitudinal designs to classroom observation and conversation analysis. When a question calls for a method I don't yet have, I learn it or find a collaborator who is an expert in that area. I also study children learning number across different languages, including bilingual children in Singapore, which helps separate what is general about number learning from what depends on language and input. Ultimately, my goal is to develop a theoretically grounded account of how children acquire natural numbers, and to use that understanding to strengthen early math learning environments.
 
-I work closely with Singapore's Ministry of Education, teacher training institutes, and preschool operators to bring this research into early childhood classrooms — more on that [here](translation/).
+I work closely with Singapore's Ministry of Education, teacher training institutes, and preschool operators to bring this research into early childhood classrooms — more on that [here](sharing/).
 
 My research has been funded by the Singapore Ministry of Education, the Singapore National Research Foundation, industry partnership, and the Natural Sciences and Engineering Research Council of Canada.
 
