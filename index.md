@@ -122,3 +122,27 @@ Oved, I., **Cheung, P.**, & Barner, D. (2014). [Concepts as representations for 
 **Cheung, P.**, Li, P., & Barner, D. (2012). [Individuation and quantification: Do bare nouns in Mandarin Chinese individuate?](https://naccl.osu.edu/sites/naccl.osu.edu/files/28%20cheung%20et%20al.pdf) *Proceedings of NACCL-22 and IACL-18*, 395–412.
 
 **Cheung, P.**, Li, P., & Barner, D. (2008). [Sources of individuation in Mandarin Chinese, a classifier language](http://www.aclweb.org/anthology/Y08-1014). *Proceedings of the 22nd Pacific Asia Conference on Language, Information and Computation*, 141–150.
+
+<br>
+
+## Recent conference presentations
+
+Selected presentations of work in progress from 2024 to 2026. \* denotes student or research assistant under my supervision.
+
+**Cheung, P.**, Ng, E. L., & Khng, K. H. (2026, July). *An untapped resource? How preschool teachers respond to children's mathematical mistakes* [Paper presentation]. Pacific Early Childhood Education Research Association Conference, Singapore.
+
+**Cheung, P.**, \*Lye, Y. M., & Sng, W. Q. (2026, July). *Classroom talk as a window into teacher–child interactions* [Paper presentation]. Pacific Early Childhood Education Research Association Conference, Singapore.
+
+**Cheung, P.**, & Merkley, R. (2026, June). *What predicts early number acquisition? Evidence from a causal number training paradigm* [Paper presentation]. Mathematical Cognition and Learning Society Conference, Padova, Italy.
+
+\*Lah, J., & **Cheung, P.** (2026, June). *The development of number knowledge in 2- to 3-year-olds* [Paper presentation]. Redesigning Pedagogy International Conference, Singapore.
+
+**Cheung, P.**, \*Poon, R., \*Ting, M., & \*Haziqah, D. (2026, June). *Preschool teachers' beliefs, knowledge, and practices in teaching numeracy* [Paper presentation]. Redesigning Pedagogy International Conference, Singapore.
+
+**Cheung, P.**, \*Aziz, N. B., Sim, L. W., Oh, A., Ansari, D., Bull, R., Lee, K., & Rifkin-Graboi, A. (2025, June). *An interactional perspective on math talk* [Paper presentation]. Mathematical Cognition and Learning Society Conference, Hong Kong.
+
+\*Poon, R., **Cheung, P.**, Ng, E. L., Sun, B., Lim-Ratnam, C., Muñez, D., & Hawes, Z. (2025, June). *Supporting preschool teachers in numeracy lessons: A professional development approach* [Poster presentation]. Mathematical Cognition and Learning Society Conference, Hong Kong.
+
+**Cheung, P.**, Ng, E. L., Muñez, D., & Sun, H. (2024, June). *Predictors of early number word acquisition: Evidence from correlational and training studies* [Paper presentation]. International Conference for Research in Early Childhood Education and Development, Hong Kong.
+
+**Cheung, P.**, Muñez, D., \*Ang, D., \*Kaur, S., & \*Kong, W. X. (2024, June). *Language and number: Testing the contribution of number word knowledge in the acquisition of multi-digits* [Paper presentation]. International Conference for Research in Early Childhood Education and Development, Hong Kong.
